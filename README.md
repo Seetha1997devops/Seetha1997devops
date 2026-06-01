@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seetha1997devops
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m devops engineer  
-- 💞️ I’m looking to collaborate on AWS devops real time Environments
+- 💞️ I’m learning Azure and GCP cloud platforms 
 - 📫 How to reach me seethalakshmisandeep@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
